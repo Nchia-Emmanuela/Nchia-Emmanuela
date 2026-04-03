@@ -19,8 +19,8 @@
 class Emma:
     def __init__(self):
         self.education = [
-            "BSc Computer Engineering",
-            "MSc Information & Communication Engineering"
+            "B.Eng Computer Engineering",
+            "M.Eng Information & Communication Engineering"
         ]
         self.interests = [
             "Cybersecurity",
